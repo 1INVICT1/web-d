@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "functions.css",
+	"sources": [
+		"../../SASS/abstracts/functions.sass"
+	],
+	"sourcesContent": [
+		"@function multiply($a, $b) {\n    @return $a * $b; }\n"
+	],
+	"names": [],
+	"mappings": ""
+}
